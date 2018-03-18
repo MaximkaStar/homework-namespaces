@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespaces", "namespaces\namespaces.csproj", "{45D13644-BF1D-43A3-8270-4F47704D144A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{34AAFC51-3C83-4BD3-8F9B-109600C9887B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D13644-BF1D-43A3-8270-4F47704D144A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D13644-BF1D-43A3-8270-4F47704D144A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D13644-BF1D-43A3-8270-4F47704D144A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D13644-BF1D-43A3-8270-4F47704D144A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34AAFC51-3C83-4BD3-8F9B-109600C9887B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AAFC51-3C83-4BD3-8F9B-109600C9887B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AAFC51-3C83-4BD3-8F9B-109600C9887B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AAFC51-3C83-4BD3-8F9B-109600C9887B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08304BCB-E7AD-4F54-A423-99BB85E8A9E6}
+	EndGlobalSection
+EndGlobal

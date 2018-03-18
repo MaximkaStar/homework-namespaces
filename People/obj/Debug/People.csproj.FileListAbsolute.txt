@@ -1,0 +1,6 @@
+C:\Users\Стасися\source\repos\namespaces\People\bin\Debug\People.dll
+C:\Users\Стасися\source\repos\namespaces\People\bin\Debug\People.pdb
+C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.dll
+C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.pdb
