@@ -1,2 +1,4 @@
 C:\Users\Стасися\source\repos\namespaces\namespaces\obj\Debug\namespaces.csprojResolveAssemblyReference.cache
 C:\Users\Стасися\source\repos\namespaces\namespaces\obj\Debug\namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Новая папка\namespace\namespaces\obj\Debug\namespaces.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\namespace\namespaces\obj\Debug\namespaces.csproj.CoreCompileInputs.cache

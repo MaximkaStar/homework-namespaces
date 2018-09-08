@@ -4,3 +4,9 @@ C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.csprojRe
 C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.csproj.CoreCompileInputs.cache
 C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.dll
 C:\Users\Стасися\source\repos\namespaces\People\obj\Debug\People.pdb
+C:\Users\Максим\Desktop\Новая папка\namespace\People\bin\Debug\People.dll
+C:\Users\Максим\Desktop\Новая папка\namespace\People\bin\Debug\People.pdb
+C:\Users\Максим\Desktop\Новая папка\namespace\People\obj\Debug\People.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\namespace\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Новая папка\namespace\People\obj\Debug\People.dll
+C:\Users\Максим\Desktop\Новая папка\namespace\People\obj\Debug\People.pdb
